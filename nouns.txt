@@ -1,0 +1,213 @@
+Aarakocra
+Aboleth
+Angel
+Animated Object
+Ankheg
+Azer
+Banshee
+Basilisk
+Behir
+Beholder
+Blight
+Bugbear
+Bulette
+Bullywug
+Cambion
+Carrion Crawler
+Centaur
+Chimera
+Chuul
+Cloaker
+Cockatrice
+Couatl
+Crawling Claw
+Cyclops
+Darkmantle
+Death Knight
+Demilich
+Demon
+Devil
+Dinosaur
+Displacer Beast
+Doppelganger
+Dracolich
+Dragon
+Dragon Turtle
+Drider
+Drow
+Dryad
+Duergar
+Elemental
+Empyrean
+Ettercap
+Ettin
+Faerie Dragon
+Flameskull
+Flumph
+Fomorian
+Fungi
+Galeb Duhr
+Gargoyle
+Genie
+Ghost
+Ghoul
+Giant
+Gibbering Mouther
+Gith
+Gnoll
+Goblin
+Golem
+Gorgon
+Grell
+Grick
+Griffon
+Grimlock
+Hag
+Half-Dragon
+Harpy
+Hell Hound
+Helmed Horror
+Hippogriff
+Hobgoblin
+Homunculus
+Hook Horror
+Hydra
+Intellect Devourer
+Incubus
+Invisible Stalker
+Jackalwere
+Kenku
+Kobold
+Kraken
+Kuo-toa
+Lamia
+Lich
+Lizardfolk
+Lycanthrope
+Magmin
+Manticore
+Medusa
+Mephit
+Merfolk
+Merrow
+Mimic
+Mind Flayer
+Minotaur
+Modron
+Mummy
+Myconid
+Naga
+Nightmare
+Nothic
+Ogre
+Oni
+Ooze
+Orc
+Otyugh
+Owlbear
+Pegasus
+Peryton
+Piercer
+Pixie
+Pseudodragon
+Purple Worm
+Quaggoth
+Rakshasa
+Remorhaz
+Revenant
+Roc
+Roper
+Rust Monster
+Sahuagin
+Salamander
+Satyr
+Scarecrow
+Shadow
+Shambling Mound
+Shield Guardian
+Skeleton
+Slaadi
+Specter
+Sphinx
+Sprite
+Stirge
+Succubus
+Tarrasque
+Thri-Kreen
+Treant
+Troglodyte
+Troll
+Umber Hulk
+Unicorn
+Vampire
+Water Weird
+Wight
+Will-o'-Wisp
+Wraith
+Wyvern
+Xorn
+Yeti
+Yuan-ti
+Yugoloth
+Zombie
+Ape
+Awakened Shrub
+Awakened Tree
+Axe Beak
+Baboon
+Badger
+Bat
+Black Bear
+Blink Dog
+Blood Hawk
+Boar
+Brown Bear
+Camel
+Cat
+Constrictor Snake
+Crab
+Crocodile
+Death Dog
+Deer
+Dire Wolf
+Draft Horse
+Eagle
+Elephant
+Elk
+Flying Snake
+Frog
+Goat
+Hawk
+Hunter Shark
+Hyena
+Jackal
+Killer Whale
+Lion
+Lizard
+Mammoth
+Mastiff
+Mule
+Octopus
+Owl
+Panther
+Phase Spider
+Poisonous Snake
+Polar Bear
+Pony
+Quipper
+Rat
+Raven
+Reef Shark
+Rhinoceros
+Riding Horse
+Saber-Toothed Tiger
+Scorpion
+Sea Horse
+Spider
+Tiger
+Vulture
+Warhorse
+Weasel
+Winter Wolf
+Wolf
+Worg
